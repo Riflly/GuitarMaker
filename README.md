@@ -18,5 +18,5 @@ UIMouseCheck: Checks if the mouse is currently over UI
 
 Save files are saved to Users\[User Name]\AppData\LocalLow\GuitarMakerStudios\Guitar Maker
 
-NOTICE: Software requires DirectX 10+, Windows 7 or newer, 64-bit to run (“System requirements for Unity 2019.3”, 2020).
+NOTICE: Software requires DirectX 10+, Windows 7 or newer, 64-bit to run
 
