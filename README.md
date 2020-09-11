@@ -1,5 +1,7 @@
 # GuitarMaker
 
+Application allowing users to customize and save guitar designs using interchangeable components and styles. Currently supports Stratocaster and Telecaster designs. 
+
 AppManager: Manages majority of application operations
 
 CameraScript: Manages Camera animations
